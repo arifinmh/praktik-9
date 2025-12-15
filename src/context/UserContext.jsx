@@ -25,7 +25,7 @@ export const useUser = () => {
       setTimeout(() => {
         setUser({
           id: 1,
-          name: 'Rizky Wahyudi',
+          name: 'Arif',
           email: email,
           avatar: '\u{1F464}'
         });
